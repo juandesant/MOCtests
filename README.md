@@ -1,0 +1,1 @@
+This project contains code and notebooks for experimenting with [MOCs (Multi-Order Coverage) maps](http://ivoa.net/documents/MOC/20140602/REC-MOC-1.0-20140602.pdf "IVOA Standard: Multi-Order Coverage Maps"), as per the International Virtual Observatory Alliance (IVOA) standard.
